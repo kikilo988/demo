@@ -1,0 +1,14 @@
+li {
+	color:silver;
+	font-size:40px;
+	border-style: solid;
+	border-width:30px;
+	border-height:30px;
+}
+
+.my_box {
+	border-style:solid;
+	border-color:blue;
+	border-width:50px;
+	background-color: blue;
+}
